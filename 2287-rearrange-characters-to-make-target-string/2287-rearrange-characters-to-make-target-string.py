@@ -5,6 +5,10 @@ class Solution(object):
         :type target: str
         :rtype: int
         """
-        f = Counter(s)
+        answer = float('inf')
 
-        return min(f[c] // count for c,count in Counter(target).items())
+        for ch in set(target):
+            answer = min(answer,
+                        s.count(ch) // target.count(ch))
+
+        return answer
