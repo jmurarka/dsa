@@ -28,4 +28,12 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/jmurarka/dsa/tree/master/0032-longest-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/jmurarka/dsa/tree/master/0540-single-element-in-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/jmurarka/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
