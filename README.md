@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jmurarka/dsa/tree/master/0020-valid-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/jmurarka/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/jmurarka/dsa/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Counting
@@ -17,4 +18,8 @@
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/jmurarka/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/jmurarka/dsa/tree/master/2287-rearrange-characters-to-make-target-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jmurarka/dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
