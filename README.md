@@ -32,6 +32,7 @@
 ## Array
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/jmurarka/dsa/tree/master/0090-subsets-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jmurarka/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -41,4 +42,12 @@
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/jmurarka/dsa/tree/master/3699-number-of-zigzag-arrays-i) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/jmurarka/dsa/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/jmurarka/dsa/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
