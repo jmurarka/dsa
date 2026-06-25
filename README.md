@@ -7,6 +7,7 @@
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/jmurarka/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/jmurarka/dsa/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jmurarka/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/jmurarka/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/jmurarka/dsa/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jmurarka/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -34,6 +36,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/jmurarka/dsa/tree/master/0090-subsets-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jmurarka/dsa/tree/master/0540-single-element-in-a-sorted-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jmurarka/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +45,7 @@
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/jmurarka/dsa/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jmurarka/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -50,4 +54,16 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/jmurarka/dsa/tree/master/0090-subsets-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jmurarka/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jmurarka/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jmurarka/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
