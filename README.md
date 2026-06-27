@@ -7,6 +7,7 @@
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/jmurarka/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/jmurarka/dsa/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jmurarka/dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jmurarka/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jmurarka/dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -37,6 +38,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/jmurarka/dsa/tree/master/0090-subsets-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jmurarka/dsa/tree/master/0540-single-element-in-a-sorted-array) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jmurarka/dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jmurarka/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jmurarka/dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
@@ -72,4 +74,8 @@
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jmurarka/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jmurarka/dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jmurarka/dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
