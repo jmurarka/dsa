@@ -4,12 +4,15 @@ class Solution(object):
         :type arr: List[int]
         :rtype: int
         """
-        arr.sort()
         n = len(arr)
+        freq = [0] * (n+1)
 
-        arr[0] = 1
+        for x in arr:
+            freq[min(x,n)] += 1
 
-        for i in range(1,n):
-            arr[i] = min(arr[i],arr[i-1] + 1)
+        res = 1
 
-        return arr[-1]
+        for i in range(2,n+1):
+            res = min(res + freq[i], i)
+
+        return res
