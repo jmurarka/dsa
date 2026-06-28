@@ -38,6 +38,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/jmurarka/dsa/tree/master/0090-subsets-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jmurarka/dsa/tree/master/0540-single-element-in-a-sorted-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jmurarka/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jmurarka/dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jmurarka/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jmurarka/dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -78,4 +79,12 @@
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jmurarka/dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jmurarka/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jmurarka/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
