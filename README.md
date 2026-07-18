@@ -52,6 +52,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/jmurarka/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/jmurarka/dsa/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jmurarka/dsa/tree/master/1331-rank-transform-of-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/jmurarka/dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jmurarka/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jmurarka/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jmurarka/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -75,6 +76,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/jmurarka/dsa/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jmurarka/dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/jmurarka/dsa/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jmurarka/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
