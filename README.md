@@ -40,12 +40,14 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/jmurarka/dsa/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/jmurarka/dsa/tree/master/0055-jump-game) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jmurarka/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/jmurarka/dsa/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/jmurarka/dsa/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/jmurarka/dsa/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/jmurarka/dsa/tree/master/0090-subsets-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jmurarka/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/jmurarka/dsa/tree/master/1288-remove-covered-intervals) |
@@ -109,6 +111,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/jmurarka/dsa/tree/master/0055-jump-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jmurarka/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jmurarka/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
