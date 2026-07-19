@@ -5,6 +5,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/jmurarka/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/jmurarka/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/jmurarka/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jmurarka/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -50,6 +51,7 @@
 | [0055-jump-game](https://github.com/jmurarka/dsa/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/jmurarka/dsa/tree/master/0090-subsets-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jmurarka/dsa/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/jmurarka/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1288-remove-covered-intervals](https://github.com/jmurarka/dsa/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jmurarka/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/jmurarka/dsa/tree/master/1480-running-sum-of-1d-array) |
@@ -76,6 +78,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/jmurarka/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/jmurarka/dsa/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jmurarka/dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/jmurarka/dsa/tree/master/3699-number-of-zigzag-arrays-i) |
