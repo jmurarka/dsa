@@ -5,6 +5,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/jmurarka/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/jmurarka/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/jmurarka/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/jmurarka/dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/jmurarka/dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jmurarka/dsa/tree/master/0032-longest-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/jmurarka/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jmurarka/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/jmurarka/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jmurarka/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -29,6 +31,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/jmurarka/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/jmurarka/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/jmurarka/dsa/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jmurarka/dsa/tree/master/3312-sorted-gcd-pair-queries) |
@@ -215,4 +218,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jmurarka/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/jmurarka/dsa/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
