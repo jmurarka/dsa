@@ -22,7 +22,7 @@ class Solution(object):
         while q:
             levelSize = len(q)
 
-            for i in range(levelSize):
+            for _ in range(levelSize):
                 curr = q.popleft()
 
                 if curr.left:
