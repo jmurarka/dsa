@@ -5,14 +5,5 @@ class Solution(object):
         :rtype: int
         """
 
-        
-        n = str(n)
-        n = sorted(n)
-
-        if not n:
-            return 0
-
-        p1 = int(n[-2])
-        p2 = int(n[-1])
-
-        return p1 * p2
+        m = sorted(str(n))
+        return int(m[-1])*int(m[-2])
