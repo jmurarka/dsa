@@ -54,6 +54,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/jmurarka/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/jmurarka/dsa/tree/master/0055-jump-game) |
+| [0486-predict-the-winner](https://github.com/jmurarka/dsa/tree/master/0486-predict-the-winner) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jmurarka/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/jmurarka/dsa/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/jmurarka/dsa/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/jmurarka/dsa/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/jmurarka/dsa/tree/master/0090-subsets-ii) |
+| [0486-predict-the-winner](https://github.com/jmurarka/dsa/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jmurarka/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jmurarka/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jmurarka/dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -207,6 +209,7 @@
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/jmurarka/dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jmurarka/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jmurarka/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jmurarka/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -260,4 +263,12 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jmurarka/dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/jmurarka/dsa/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/jmurarka/dsa/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
