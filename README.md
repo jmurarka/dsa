@@ -62,6 +62,7 @@
 | [0877-stone-game](https://github.com/jmurarka/dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/jmurarka/dsa/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/jmurarka/dsa/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jmurarka/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jmurarka/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jmurarka/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/jmurarka/dsa/tree/master/3620-network-recovery-pathways) |
@@ -112,6 +113,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/jmurarka/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/jmurarka/dsa/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jmurarka/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jmurarka/dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/jmurarka/dsa/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jmurarka/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -236,6 +238,7 @@
 | [0877-stone-game](https://github.com/jmurarka/dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/jmurarka/dsa/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/jmurarka/dsa/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jmurarka/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jmurarka/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jmurarka/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jmurarka/dsa/tree/master/3312-sorted-gcd-pair-queries) |
@@ -268,6 +271,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jmurarka/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jmurarka/dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/jmurarka/dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Monotonic Stack
