@@ -30,6 +30,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jmurarka/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/jmurarka/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jmurarka/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jmurarka/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jmurarka/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/jmurarka/dsa/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jmurarka/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -54,6 +55,7 @@
 | [0020-valid-parentheses](https://github.com/jmurarka/dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jmurarka/dsa/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jmurarka/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jmurarka/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -332,4 +334,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/jmurarka/dsa/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jmurarka/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
