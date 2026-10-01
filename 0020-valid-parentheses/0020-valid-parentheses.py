@@ -1,30 +1,14 @@
-class Solution(object):
-    def isValid(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
+class Solution:
+    def isValid(self, s: str) -> bool:
         stck = []
+        mapping = {")" : "(", "}": "{", "]": "["}
 
-        for ch in s:
+        for st in s:
+            if st in mapping.values():
+                stck.append(st)
 
-            if ch == "(" or ch == "[" or ch == "{":
-                stck.append(ch)
-
-            else:
-                if not stck:
+            if st in mapping.keys():
+                if not stck or mapping[st] != stck.pop():
                     return False
 
-                top = stck.pop()
-
-                if ch == ")" and top != "(":
-                    return False
-
-                if ch == "]" and top != "[":
-                    return False
-
-                if ch == "}" and top != "{":
-                    return False
-
-        return len(stck) == 0
-
+        return not stck
