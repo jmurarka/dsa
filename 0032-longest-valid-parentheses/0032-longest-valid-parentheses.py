@@ -1,15 +1,11 @@
-class Solution(object):
-    def longestValidParentheses(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
-        
+class Solution:
+    def longestValidParentheses(self, s: str) -> int:
         st = [-1]
+
         max_length = 0
 
-        for i,ch in enumerate(s):
-            if ch == "(":
+        for i,c in enumerate(s):
+            if c == "(":
                 st.append(i)
 
             else:
