@@ -1,12 +1,10 @@
-class Solution(object):
-    def runningSum(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[int]
-        """
-        n = len(nums)
-        
-        for i in range(1,n):
-            nums[i] += nums[i-1]
+class Solution:
+    def runningSum(self, nums: list[int]) -> list[int]:
+        ans = []
+        sum = 0
 
-        return nums
+        for i in range(len(nums)):
+            sum += nums[i]
+            ans.append(sum)
+
+        return ans
