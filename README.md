@@ -78,6 +78,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jmurarka/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/jmurarka/dsa/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/jmurarka/dsa/tree/master/0090-subsets-ii) |
 | [0486-predict-the-winner](https://github.com/jmurarka/dsa/tree/master/0486-predict-the-winner) |
@@ -269,6 +270,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jmurarka/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jmurarka/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jmurarka/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jmurarka/dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
