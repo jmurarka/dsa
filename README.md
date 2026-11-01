@@ -87,6 +87,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jmurarka/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/jmurarka/dsa/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/jmurarka/dsa/tree/master/0090-subsets-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/jmurarka/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/jmurarka/dsa/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jmurarka/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jmurarka/dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -264,6 +265,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/jmurarka/dsa/tree/master/0009-palindrome-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/jmurarka/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/jmurarka/dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jmurarka/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/jmurarka/dsa/tree/master/0836-rectangle-overlap) |
